@@ -1,0 +1,5 @@
+E:\projects\Metida\Metida.Core\bin\Debug\Metida.Core.dll
+E:\projects\Metida\Metida.Core\bin\Debug\Metida.Core.pdb
+E:\projects\Metida\Metida.Core\obj\Debug\Metida.Core.csprojResolveAssemblyReference.cache
+E:\projects\Metida\Metida.Core\obj\Debug\Metida.Core.dll
+E:\projects\Metida\Metida.Core\obj\Debug\Metida.Core.pdb

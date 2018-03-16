@@ -1,0 +1,23 @@
+﻿<Window x:Name="Window" x:Class="Metida.Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Metida.Application"
+        xmlns:controls="clr-namespace:Metida.Controls;assembly=Metida.Controls"
+        mc:Ignorable="d"
+        Title="Metida" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu x:Name="TopMenu" Height="23" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <MenuItem Header="File" Margin="0">
+                <MenuItem Header="Create" HorizontalAlignment="Left" Width="91"/>
+                <MenuItem Header="Open" HorizontalAlignment="Left" Width="91"/>
+                <MenuItem Header="Save" HorizontalAlignment="Left" Width="91"/>
+            </MenuItem>
+        </Menu>
+        <controls:DiagramCanvas Height="297" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

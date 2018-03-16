@@ -1,0 +1,4 @@
+E:\projects\Metida\Metida.Controls\bin\Release\Metida.Controls.dll
+E:\projects\Metida\Metida.Controls\bin\Release\Metida.Controls.pdb
+E:\projects\Metida\Metida.Controls\obj\Release\Metida.Controls.dll
+E:\projects\Metida\Metida.Controls\obj\Release\Metida.Controls.pdb

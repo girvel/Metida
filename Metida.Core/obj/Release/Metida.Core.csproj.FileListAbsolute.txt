@@ -1,0 +1,4 @@
+E:\projects\Metida\Metida.Core\bin\Release\Metida.Core.dll
+E:\projects\Metida\Metida.Core\bin\Release\Metida.Core.pdb
+E:\projects\Metida\Metida.Core\obj\Release\Metida.Core.dll
+E:\projects\Metida\Metida.Core\obj\Release\Metida.Core.pdb
